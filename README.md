@@ -1,2 +1,2 @@
 # hello-world
-githubの練習
+gitの練習です
